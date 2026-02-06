@@ -42,14 +42,12 @@ next-env.d.ts
 # Personal configuration (keep your personal info private!)
 # Remove this section if you want to track your config
 
+git add public/photos
+git status
+git commit -m "Add photos"
+git push
 
-# Personal photos (keep your photos private!)
-# Remove this section if you want to track your photos
-public/photos/*.jpg
-public/photos/*.jpeg
-public/photos/*.png
-public/photos/*.gif
-public/photos/*.webp
+
 
 # Keep example files and READMEs
 !public/photos/README_PHOTOS.txt
